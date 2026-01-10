@@ -95,17 +95,52 @@ nav {
     width: 1360px;
     height: 152px ;
     text-align: center;
+    padding-top: 50px;
    
+}
+.section-heading h2{
+    color: #000;
+    font-style:Bold;
+    font-size: 48px;
+    text-align: center;
+    
+    
 }
 .skill-box{
     display: flex;
     gap:24px;
 
-
+    
 }
 .skill-card {
     padding: 30px;
-    border: 1px solid red;
     width: 300px;
     height: 200px;
+    text-align: center;
+    box-shadow: 2px 2px 10px #a7a5a5;
+    
+    
+    
+}
+.skill-box p{
+    font-size: 15px;
+    color:var(#627382);
+}
+
+.skill-card img{ 
+    width: 30px;
+    height: 30px;
+    background-color:red;
+    border-radius: 50px;
+    padding: 15px;
+ 
+}
+.skill-card p {
+    font-size: 16px;
+    color: #757575;
+    line-height: 20px;
+}
+.skill-card h3{
+    font-size: 24px;
+    margin-bottom: 16px;
 }
