@@ -144,3 +144,30 @@ nav {
     font-size: 24px;
     margin-bottom: 16px;
 }
+.structured{
+    padding: 120px;
+    width: 1360px;
+    height: 600px;
+}
+.structured-card{
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    border-top: 102px;
+
+}
+.structured-card a{
+    color:#30b868;
+
+}
+.abote h3{
+     width: 700px;
+    height: 116px;
+    gap:10px;
+}
+.structured-card p{
+    width: 700px;
+    height: 60px;
+}
+
+
